@@ -1,5 +1,4 @@
-# bggradient
-A background Gradient generator
+# A background Gradient Generator
 
 Created a Background Gradient Generator in the Zero To Master Web Developer course. 
 
